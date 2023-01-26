@@ -1,0 +1,1 @@
+this is a class assignment i build it in an OOP way using array methods and Regex
